@@ -1,0 +1,56 @@
+body {
+background-image: url("pexels-cottonbro-5485889.jpg");
+background-size: 100%;
+font-family: sans-serif;
+color: white;
+}
+
+.d1 {
+	background-color:black;
+  margin-top: 70px;
+  margin-bottom: 100px;
+  margin-right: 650px;
+  margin-left: 730px;
+  padding-left: 5px;
+}
+.d2 {
+	background-color:black;
+  margin-top: 70px;
+  margin-bottom: 100px;
+  margin-right: 1445px;
+  margin-left: 0px;
+  padding-left: 5px;
+  font-size: 21px;
+}
+		
+
+.d3 {
+	background-color:black;
+  margin-top: 70px;
+  margin-bottom: 100px;
+  margin-right: 0px;
+  margin-left: 1445px;
+  padding-left: 5px;
+  font-size: 21px;
+}
+.d4 {
+	position: absolute;
+right: 0%;
+}
+.d5 {
+	background-color:black;
+  margin-top: 70px;
+  margin-bottom: 100px;
+  margin-right: 1760px;
+  margin-left: 0px;
+  padding-left: 5px;
+  font-size: 21px;
+}
+.d6 {
+	background-color:black;
+  margin-top: 70px;
+  margin-bottom: 100px;
+  margin-right: 0px;
+  margin-left: 1445px;
+  padding-left: 5px;
+  font-size: 23px;
